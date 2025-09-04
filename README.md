@@ -23,3 +23,7 @@ This project replicates the look and feel of Amazon’s interface, focusing on d
 ---
 
 ## 📂 Project Structure
+AmazonClone/
+│── index.html # Main HTML file
+│── AmazonClone.css # Stylesheet
+│── /images # Project images (logo, hero, products, etc.)
